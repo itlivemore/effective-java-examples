@@ -1,4 +1,4 @@
-package chapter05.item23;
+package pers.ej.item23;
 
 import java.util.ArrayList;
 import java.util.List;
