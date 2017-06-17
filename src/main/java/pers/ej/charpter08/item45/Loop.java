@@ -11,6 +11,9 @@ import java.util.List;
 public class Loop {
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
+        list.add(1);
+        list.add(2);
+
         // 使用foreach,tmp的作用域只在下面的循环中
         for (Integer tmp : list) {
             System.out.println(tmp);
@@ -32,14 +35,11 @@ public class Loop {
 
         /* 下面是另一种对局部变量的作用域进行最小化的循环做法
         * i和n具有相同的作用域*/
-        for (int i = 0, n = getN(); i < n; i++) {
+        for (int i = 0, n = list.size(); i < n; i++) {
             System.out.println(i);
         }
     }
 
-    private static int getN() {
-        return 3;
-    }
 }
 
 
