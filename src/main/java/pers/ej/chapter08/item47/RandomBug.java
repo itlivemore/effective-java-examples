@@ -1,4 +1,4 @@
-package pers.ej.charpter08.item47;
+package pers.ej.chapter08.item47;
 
 import java.util.Random;
 

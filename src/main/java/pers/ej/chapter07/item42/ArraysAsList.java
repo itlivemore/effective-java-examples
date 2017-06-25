@@ -1,4 +1,4 @@
-package pers.ej.charpter07.item42;
+package pers.ej.chapter07.item42;
 
 import java.util.Arrays;
 

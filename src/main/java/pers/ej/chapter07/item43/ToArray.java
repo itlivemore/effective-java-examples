@@ -1,6 +1,5 @@
-package pers.ej.charpter07.item43;
+package pers.ej.chapter07.item43;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

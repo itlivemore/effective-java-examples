@@ -1,4 +1,4 @@
-package pers.ej.charpter08.item49;
+package pers.ej.chapter08.item49;
 
 /**
  * 自动拆箱与装箱
