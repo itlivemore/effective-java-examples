@@ -1,4 +1,4 @@
-package pers.ej.charpter07.item42;
+package pers.ej.chapter07.item42;
 
 /**
  * 使用可变参数求一组数的最小值

@@ -1,4 +1,4 @@
-package pers.ej.charpter08.item49;
+package pers.ej.chapter08.item49;
 
 /**
  * 当在一项操作中混合使用基本类型和装箱类型时，装箱基本类型就会自动拆箱。

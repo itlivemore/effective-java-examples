@@ -1,4 +1,4 @@
-package pers.ej.charpter08.item48;
+package pers.ej.chapter08.item48;
 
 import java.math.BigDecimal;
 

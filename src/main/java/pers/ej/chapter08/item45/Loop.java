@@ -1,4 +1,4 @@
-package pers.ej.charpter08.item45;
+package pers.ej.chapter08.item45;
 
 import java.util.ArrayList;
 import java.util.Iterator;

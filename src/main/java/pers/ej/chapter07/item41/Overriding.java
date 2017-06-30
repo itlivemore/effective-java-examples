@@ -1,4 +1,4 @@
-package pers.ej.charpter07.item41;
+package pers.ej.chapter07.item41;
 
 /**
  * 测试覆盖方法
