@@ -1,4 +1,4 @@
-package pers.ej.charpter08.item53;
+package pers.ej.chapter08.item53;
 
 import java.util.Arrays;
 import java.util.Set;
