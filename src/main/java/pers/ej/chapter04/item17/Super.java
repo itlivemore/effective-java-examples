@@ -1,4 +1,4 @@
-package item17;
+package pers.ej.chapter04.item17;
 
 /**
  * 父类的构造器中使用了可被覆盖的方法.

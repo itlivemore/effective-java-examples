@@ -1,4 +1,4 @@
-package item21;
+package pers.ej.chapter04.item21;
 
 /**
  * 定义这样一种对象，它的方法执行其它对象(这些对象被显式传递给这些方法)上的操作。

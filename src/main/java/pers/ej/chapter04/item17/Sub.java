@@ -1,4 +1,4 @@
-package item17;
+package pers.ej.chapter04.item17;
 
 import java.util.Date;
 

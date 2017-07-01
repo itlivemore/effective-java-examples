@@ -1,4 +1,4 @@
-package item22;
+package pers.ej.chapter04.item22;
 
 import java.util.AbstractSet;
 import java.util.Iterator;

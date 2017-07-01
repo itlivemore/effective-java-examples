@@ -1,4 +1,4 @@
-package item15;
+package pers.ej.chapter04.item15;
 
 /**
  * 使类不能子类化。可以使类是final的，也可以用下面的方法：
